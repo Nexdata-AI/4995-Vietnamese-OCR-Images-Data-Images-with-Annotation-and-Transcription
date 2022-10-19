@@ -1,8 +1,10 @@
 # 4995-Vietnamese-OCR-Images-Data-Images-with-Annotation-and-Transcription
-https://www.datatang.ai/datasets/1059
+
 
 ## Description
 4,995 Vietnamese OCR Images Data - Images with Annotation and Transcription. The data includes 258 images of natural scenes, 2,553 Internet images, 2,184 document images. For line-level content annotation, line-level quadrilateral bounding box annotation and test transcription was adpoted; for column-level content annotation, column-level quadrilateral bounding box annotation and text transcription was adpoted. The data can be used for tasks such as Vietnamese recognition in multiple scenes.
+
+For more details, please refer to the link: https://bit.ly/3UC1jFP
 
 ## Data size
 4,995 OCR images, including 258 images of natural scenes, 2,553 Internet images, 2,184 document images
@@ -27,3 +29,6 @@ line-level quadrilateral bounding box annotation and transcription for the texts
 
 ## Accuracy
 the error bound of each vertex of quadrilateral bounding box is within 10 pixels, which is a qualified annotation, the accuracy of bounding boxes is not less than 97%; the texts transcription accuracy is not less than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
