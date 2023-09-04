@@ -4,7 +4,8 @@
 ## Description
 4,995 Vietnamese OCR Images Data - Images with Annotation and Transcription. The data includes 258 images of natural scenes, 2,553 Internet images, 2,184 document images. For line-level content annotation, line-level quadrilateral bounding box annotation and test transcription was adpoted; for column-level content annotation, column-level quadrilateral bounding box annotation and text transcription was adpoted. The data can be used for tasks such as Vietnamese recognition in multiple scenes.
 
-For more details, please refer to the link: https://bit.ly/3UC1jFP
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1059?source=Github
+
 
 ## Data size
 4,995 OCR images, including 258 images of natural scenes, 2,553 Internet images, 2,184 document images
